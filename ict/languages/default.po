@@ -1,0 +1,1300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-03-04 11:19+0200\n"
+"PO-Revision-Date: 2013-11-29 14:18+0200\n"
+"Last-Translator: Andy <andy.markus@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: /Users/andy/Devel/htdocs/lookshopdemo/wp-content/themes/"
+"lookshop/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: extensions\n"
+"X-Poedit-SearchPath-2: tiadmin\n"
+
+#: 404.php:7
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: 404.php:10
+msgid "Oops. Fail. The page cannot be found."
+msgstr ""
+
+#: 404.php:11
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: archive.php:13
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:15
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:30 category.php:16 index.php:17
+msgid "Cateories"
+msgstr ""
+
+#: archive.php:32 archive.php:45 category.php:18 category.php:31 index.php:19
+#: index.php:32
+msgid "All"
+msgstr ""
+
+#: archive.php:43 category.php:29 index.php:30
+msgid "Tags"
+msgstr ""
+
+#: archive.php:80 archive.php:196 author.php:44 category.php:66
+#: category.php:182 front-page.php:94 index.php:67 index.php:183 search.php:21
+#: single.php:42 tag.php:25
+msgid "by"
+msgstr ""
+
+#: archive.php:81 archive.php:196 author.php:44 category.php:67
+#: category.php:182 front-page.php:94 index.php:68 index.php:183
+#: page-default.php:23 page.php:17 search.php:21 single.php:43 tag.php:25
+msgid "at"
+msgstr ""
+
+#: archive.php:82 category.php:68 index.php:69 single.php:44
+msgid "in"
+msgstr ""
+
+#: archive.php:83 archive.php:197 author.php:45 category.php:69
+#: category.php:183 front-page.php:95 index.php:70 index.php:184 search.php:22
+msgid "Tags: "
+msgstr ""
+
+#: archive.php:90 archive.php:200 author.php:48 category.php:76
+#: category.php:186 front-page.php:98 index.php:77 index.php:187 search.php:25
+#: tag.php:30
+msgid "Read more"
+msgstr ""
+
+#: archive.php:92 category.php:78 index.php:79
+msgid "1"
+msgstr ""
+
+#: archive.php:92 category.php:78 index.php:79
+msgid "%"
+msgstr ""
+
+#: archive.php:112 archive.php:213 category.php:98 category.php:199
+#: front-page.php:113 index.php:99 index.php:200 tag.php:45
+msgid "There has been an error."
+msgstr ""
+
+#: archive.php:113 archive.php:214 category.php:99 category.php:200
+#: front-page.php:114 index.php:100 index.php:201 tag.php:46
+msgid "We apologize for any inconvenience, please"
+msgstr ""
+
+#: archive.php:113 archive.php:214 category.php:99 category.php:200
+#: front-page.php:114 index.php:100 index.php:201 tag.php:46
+msgid "return to the home page"
+msgstr ""
+
+#: archive.php:113 archive.php:214 category.php:99 category.php:200
+#: front-page.php:114 index.php:100 index.php:201 tag.php:46
+msgid "or use the search form below."
+msgstr ""
+
+#: archive.php:120 archive.php:221 category.php:106 category.php:207
+#: front-page.php:122 index.php:107 index.php:208 search.php:49
+msgid "<span>&laquo; Older Entries</span>"
+msgstr ""
+
+#: archive.php:123 archive.php:224 category.php:109 category.php:210
+#: front-page.php:125 index.php:110 index.php:211 search.php:52
+msgid "<span>Newer Entries &raquo;</span>"
+msgstr ""
+
+#: archive.php:196 author.php:44 category.php:182 front-page.php:94
+#: index.php:183 search.php:21
+msgid " in "
+msgstr ""
+
+#: archive.php:202 author.php:51 category.php:188 front-page.php:101
+#: index.php:189 search.php:28 tag.php:38
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:202 author.php:51 category.php:188 front-page.php:101
+#: index.php:189 search.php:28 tag.php:38
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:202 author.php:51 category.php:188 front-page.php:101
+#: index.php:189 search.php:28 tag.php:38
+msgid "% Comments"
+msgstr ""
+
+#: author.php:13
+msgid "About"
+msgstr ""
+
+#: author.php:25
+msgid "Recent Posts by"
+msgstr ""
+
+#: author.php:60 author.php:77
+#, php-format
+msgid "No posts by %s yet."
+msgstr ""
+
+#: author.php:66
+msgid "Recent Comments by"
+msgstr ""
+
+#: author.php:74
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: category.php:7 category.php:240
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:4
+msgid ""
+"Please do not load this page directly or we will hunt you down. Thanks and "
+"have a great day!"
+msgstr ""
+
+#: comments.php:6 page-default.php:33 page.php:40 single.php:49
+msgid "No comments"
+msgstr ""
+
+#: comments.php:6
+msgid "One comment:"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "% comments:"
+msgstr ""
+
+#: comments.php:32
+msgid "No comments yet. You should be kind and add one!"
+msgstr ""
+
+#: footer.php:34
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:34
+msgid "All Rights Reserved. &nbsp;"
+msgstr ""
+
+#: functions.php:388
+msgid "Read More"
+msgstr ""
+
+#: functions.php:697
+#, php-format
+msgid "<h5>%s</h5>"
+msgstr ""
+
+#: functions.php:701
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:708
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:708 functions.php:730
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:730
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:754
+msgid "Name:"
+msgstr ""
+
+#: functions.php:755
+msgid "Email:"
+msgstr ""
+
+#: functions.php:758
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: functions.php:763
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:764
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:769
+msgid "Leave a Reply:"
+msgstr ""
+
+#: functions.php:770
+#, php-format
+msgid "Leave a Reply to %s :"
+msgstr ""
+
+#: functions.php:771
+msgid "<span>Cancel reply</span>"
+msgstr ""
+
+#: functions.php:773
+msgid "Post Comment"
+msgstr ""
+
+#: header.php:7
+msgid "Tag Archive for &quot;"
+msgstr ""
+
+#: header.php:10
+msgid " Archive | "
+msgstr ""
+
+#: header.php:13
+msgid "Search for &quot;"
+msgstr ""
+
+#: header.php:21
+msgid "Error 404 Not Found | "
+msgstr ""
+
+#: header.php:187
+msgid "Navigate to"
+msgstr ""
+
+#: index.php:9
+msgid "Our Blog"
+msgstr ""
+
+#: login-form.php:11 login-form.php:31
+msgid "Log In"
+msgstr ""
+
+#: login-form.php:15 login-form.php:43 register-form.php:12 register.php:40
+#: register.php:73 wpsc-shopping_cart_page.php:294
+msgid "Username"
+msgstr ""
+
+#: login-form.php:19 register.php:45 wpsc-shopping_cart_page.php:297
+msgid "Password"
+msgstr ""
+
+#: login-form.php:28
+msgid "Remember Me"
+msgstr ""
+
+#: login-form.php:40 login-form.php:56 register-form.php:25
+msgid "Register"
+msgstr ""
+
+#: login-form.php:47 register-form.php:16 wpsc-shopping_cart_page.php:300
+msgid "E-mail"
+msgstr ""
+
+#: login-form.php:54 register-form.php:23
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: lostpassword-form.php:12
+msgid "Username or E-mail:"
+msgstr ""
+
+#: lostpassword-form.php:20
+msgid "Get New Password"
+msgstr ""
+
+#: page-default.php:23 page.php:17
+msgid "&nbsp;|&nbsp;<small>Edit this entry</small>"
+msgstr ""
+
+#: page-default.php:33 page.php:40 single.php:49
+msgid "One comment"
+msgstr ""
+
+#: page-default.php:33 page.php:40 single.php:49
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: page-default.php:33 page.php:40 single.php:49
+msgid "Comments are closed"
+msgstr ""
+
+#: page.php:33 tag.php:34
+msgid "Categories"
+msgstr ""
+
+#: page.php:34 tag.php:35
+msgid "<b>Tags:</b> "
+msgstr ""
+
+#: page.php:35
+msgid "Recieve new post updates:"
+msgstr ""
+
+#: page.php:35
+msgid "Entries (RSS)"
+msgstr ""
+
+#: page.php:37
+msgid "Recieve follow up comments updates"
+msgstr ""
+
+#: register.php:23 register.php:28
+msgid "Success!"
+msgstr ""
+
+#: register.php:24
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+
+#: register.php:29
+msgid "Check your email to reset your password."
+msgstr ""
+
+#: register.php:33
+msgid "Have an account?"
+msgstr ""
+
+#: register.php:34
+msgid "Log in or sign up! It&rsquo;s fast &amp; <em>free!</em>"
+msgstr ""
+
+#: register.php:60
+msgid "Login"
+msgstr ""
+
+#: register.php:69
+msgid "Register for this site!"
+msgstr ""
+
+#: register.php:70
+msgid "Sign up now for the good stuff."
+msgstr ""
+
+#: register.php:77
+msgid "Your Email"
+msgstr ""
+
+#: register.php:83
+msgid "Sign up!"
+msgstr ""
+
+#: register.php:84
+msgid "<p>Check your email for the password!</p>"
+msgstr ""
+
+#: register.php:92
+msgid "Lost something?"
+msgstr ""
+
+#: register.php:93
+msgid "Enter your username or email to reset your password."
+msgstr ""
+
+#: register.php:96
+msgid "Email"
+msgstr ""
+
+#: register.php:103
+msgid "Reset my password"
+msgstr ""
+
+#: register.php:104
+msgid "<p>A message will be sent to your email address.</p>"
+msgstr ""
+
+#: register.php:115
+msgid "Welcome,"
+msgstr ""
+
+#: register.php:121
+msgid "You&rsquo;re logged in as"
+msgstr ""
+
+#: register.php:123
+msgid "Log out"
+msgstr ""
+
+#: register.php:125
+msgid "Admin"
+msgstr ""
+
+#: register.php:126
+msgid "Profile"
+msgstr ""
+
+#: resetpass-form.php:13
+msgid "New password"
+msgstr ""
+
+#: resetpass-form.php:17
+msgid "Confirm new password"
+msgstr ""
+
+#: resetpass-form.php:20
+msgid "Strength indicator"
+msgstr ""
+
+#: resetpass-form.php:21
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: search.php:7
+msgid "You were looking for"
+msgstr ""
+
+#: search.php:38
+msgid "No Results"
+msgstr ""
+
+#: search.php:41
+msgid "Please feel free try again!"
+msgstr ""
+
+#: searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: sidebar.php:3
+msgid "navigation"
+msgstr ""
+
+#: sidebar.php:7
+msgid "archives"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Meta"
+msgstr ""
+
+#: single.php:69 wpsc-single_product.php:141
+msgid "Share: "
+msgstr ""
+
+#: single.php:73
+msgid "<div class=\"post-tags\">Tags: <span>"
+msgstr ""
+
+#: single.php:83
+msgid "About the Author"
+msgstr ""
+
+#: single.php:89
+msgid "View all posts by"
+msgstr ""
+
+#: single.php:100
+msgid "<span>Previous post</span>"
+msgstr ""
+
+#: single.php:103
+msgid "<span>Next Post</span>"
+msgstr ""
+
+#: tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: tag.php:54
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: tag.php:59
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: wpsc-cart_widget.php:13 tiadmin/tiadmin.php:441 tiadmin/tiadmin.php:446
+#: tiadmin/tiadmin.php:467
+msgid "No"
+msgstr ""
+
+#: wpsc-cart_widget.php:14
+msgid "item"
+msgstr ""
+
+#: wpsc-cart_widget.php:14
+msgid " items"
+msgstr ""
+
+#: wpsc-cart_widget.php:17
+msgid " in your cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:33
+msgid "quantity: "
+msgstr ""
+
+#: wpsc-cart_widget.php:34
+msgid "price: "
+msgstr ""
+
+#: wpsc-cart_widget.php:51 wpsc-grid_view.php:93 wpsc-products_page.php:236
+#: wpsc-single_product.php:81
+msgid "Shipping"
+msgstr ""
+
+#: wpsc-cart_widget.php:61
+msgid "Postage &amp; Tax "
+msgstr ""
+
+#: wpsc-cart_widget.php:64
+msgid "Total&nbsp;:"
+msgstr ""
+
+#: wpsc-cart_widget.php:70
+msgid "excluding shipping and tax"
+msgstr ""
+
+#: wpsc-cart_widget.php:81
+msgid "Empty Your Cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:81
+msgid "Empty cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:86
+msgid "Checkout"
+msgstr ""
+
+#: wpsc-cart_widget.php:95
+msgid ""
+"There are no products in your shopping cart!<br/>\n"
+"\t\t\t\t\t\t\t\tWe hope it's not for long."
+msgstr ""
+
+#: wpsc-cart_widget.php:97
+msgid "Visit the shop"
+msgstr ""
+
+#: wpsc-grid_view.php:79 wpsc-products_page.php:330
+msgid "Sale"
+msgstr ""
+
+#: wpsc-grid_view.php:89 wpsc-products_page.php:224 wpsc-single_product.php:68
+msgid "Old Price"
+msgstr ""
+
+#: wpsc-grid_view.php:91 wpsc-products_page.php:226
+#: wpsc-shopping_cart_page.php:23 wpsc-single_product.php:70
+#: wpsc-user-log.php:107
+msgid "Price"
+msgstr ""
+
+#: wpsc-grid_view.php:110 wpsc-products_page.php:189
+#: wpsc-single_product.php:178
+msgid "Product Options"
+msgstr ""
+
+#: wpsc-grid_view.php:130 wpsc-list_view.php:125 wpsc-products_page.php:307
+#: wpsc-single_product.php:276
+msgid "Add To Cart"
+msgstr ""
+
+#: wpsc-grid_view.php:132
+msgid "Sorry, sold out!"
+msgstr ""
+
+#: wpsc-grid_view.php:139 wpsc-list_view.php:129 wpsc-products_page.php:301
+#: wpsc-single_product.php:281
+msgid "Updating cart..."
+msgstr ""
+
+#: wpsc-grid_view.php:160 wpsc-list_view.php:146 wpsc-products_page.php:440
+msgid "There are no products in this group."
+msgstr ""
+
+#: wpsc-list_view.php:81 wpsc-products_page.php:213 wpsc-single_product.php:93
+msgid "Product in stock"
+msgstr ""
+
+#: wpsc-list_view.php:83 wpsc-products_page.php:215 wpsc-single_product.php:95
+msgid "Product not in stock"
+msgstr ""
+
+#: wpsc-list_view.php:109 wpsc-single_product.php:203
+msgid "Quantity"
+msgstr ""
+
+#: wpsc-list_view.php:123 wpsc-products_page.php:305
+#: wpsc-single_product.php:271 wpsc-single_product.php:272
+msgid "Buy Now"
+msgstr ""
+
+#: wpsc-list_view.php:133 wpsc-single_product.php:285
+msgid "This product has sold out."
+msgstr ""
+
+#: wpsc-products_page.php:44
+msgid "All Products"
+msgstr ""
+
+#: wpsc-products_page.php:170
+msgid "More Details"
+msgstr ""
+
+#: wpsc-products_page.php:219 wpsc-single_product.php:63
+msgid "Donation"
+msgstr ""
+
+#: wpsc-products_page.php:294
+msgid "View"
+msgstr ""
+
+#: wpsc-products_page.php:316
+msgid "Edit"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:10 wpsc-transaction_results.php:24
+msgid "Oops, there is nothing in your cart."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:10 wpsc-transaction_results.php:24
+msgid "Please visit our shop"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:18
+msgid "Please review your order"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:21
+msgid "Product"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:24
+msgid "Qty"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:25
+msgid "Total"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:51
+msgid "No Image"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:79 wpsc-shopping_cart_page.php:137
+msgid "Update"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:117
+msgid "Remove"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:130
+msgid "Coupon is not valid."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:134
+msgid "Enter coupon code"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:142
+msgid "Cost before shipping:"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:169
+msgid "Calculate Shipping Price"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:173
+msgid "Please choose a country below to calculate your shipping costs"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:181
+msgid "Please provide a Zipcode and click Calculate in order to continue."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:187
+msgid ""
+"Sorry, online ordering is unavailable to this destination and/or weight. "
+"Please double check your destination details."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:205
+msgid " - Choose a Shipping Rate"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:259
+msgid "You must sign in or register with us to continue with your purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:263
+msgid "Sign in"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:271
+msgid "If you have bought from us before please sign in here to purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:292
+msgid "Join up now"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:303
+msgid ""
+"Signing up is free and easy! please fill out your details your registration "
+"will happen automatically as you checkout. Don't forget to use your details "
+"to login with next time!"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:350
+msgid "Same as billing address:"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:352
+msgid "Your order will be shipped to the billing address"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:395
+msgid "Enter your email address"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:433
+msgid "How did you find us"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:436
+msgid "Word of mouth"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:437
+msgid "Advertising"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:438
+msgid "Internet"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:439
+msgid "Existing Customer"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:450
+msgid "Payment Type"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:486
+#, php-format
+msgid ""
+"I agree to the <a class='thickbox' target='_blank' href='%s' "
+"class='termsandconds'>Terms and Conditions</a>"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:495 wpsc-shopping_cart_page.php:563
+msgid "Purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:507
+msgid "Review and purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:513
+msgid "Total Shipping"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:540
+#: functions/wpsc-transaction_results_functions.php:298
+#: functions/wpsc-transaction_results_functions.php:303
+msgid "Discount"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:552
+msgid "Total Price"
+msgstr ""
+
+#: wpsc-single_product.php:72
+msgid "You save"
+msgstr ""
+
+#: wpsc-single_product.php:157
+msgid "Options:"
+msgstr ""
+
+#: wpsc-single_product.php:162
+msgid "Personalize Your Product"
+msgstr ""
+
+#: wpsc-single_product.php:163
+msgid ""
+"Complete this form to include a personalized message with your purchase."
+msgstr ""
+
+#: wpsc-single_product.php:171
+msgid "Upload a File"
+msgstr ""
+
+#: wpsc-single_product.php:172
+msgid "Select a file from your computer to include with this purchase."
+msgstr ""
+
+#: wpsc-single_product.php:330
+msgid "Product Information"
+msgstr ""
+
+#: wpsc-user-log.php:17
+msgid "Purchase History"
+msgstr ""
+
+#: wpsc-user-log.php:18
+msgid "Your Details"
+msgstr ""
+
+#: wpsc-user-log.php:19
+msgid "Your Downloads"
+msgstr ""
+
+#: wpsc-user-log.php:40
+msgid "Save Profile"
+msgstr ""
+
+#: wpsc-user-log.php:52
+msgid "File Names"
+msgstr ""
+
+#: wpsc-user-log.php:53
+msgid "Downloads Left"
+msgstr ""
+
+#: wpsc-user-log.php:54 wpsc-user-log.php:106
+msgid "Date"
+msgstr ""
+
+#: wpsc-user-log.php:90
+msgid "You have not purchased any downloadable products yet."
+msgstr ""
+
+#: wpsc-user-log.php:105
+msgid "Status"
+msgstr ""
+
+#: wpsc-user-log.php:111
+msgid "Payment Method"
+msgstr ""
+
+#: wpsc-user-log.php:124
+msgid "No transactions for this month."
+msgstr ""
+
+#: wpsc-user-log.php:137
+msgid "There have not been any purchases yet."
+msgstr ""
+
+#: wpsc-user-log.php:145
+msgid ""
+"You must be logged in to use this page. Please use the form below to login "
+"to your account."
+msgstr ""
+
+#: wpsc-user-log.php:149
+msgid "Username:"
+msgstr ""
+
+#: wpsc-user-log.php:153
+msgid "Password:"
+msgstr ""
+
+#: wpsc-user-log.php:159
+msgid "Remember me"
+msgstr ""
+
+#: wpsc-user-log.php:164
+msgid "Login &raquo;"
+msgstr ""
+
+#: extensions/contact7submit.php:49
+msgid "Send"
+msgstr ""
+
+#: extensions/contact7submit.php:55
+msgid "Sending ..."
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:15
+msgid "lookshop Categories Slider"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:16
+msgid "Categories Slider"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:24
+msgid "Product Categories"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:163
+msgid "Title:"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:168
+msgid "Show Categories"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:170
+msgid "(leave all unchecked if you want to display all)"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:175
+msgid "Show Thumbnails"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:181
+msgid " Show N/A when No Image Available"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:184
+msgid "Width:"
+msgstr ""
+
+#: extensions/wpsccategoriesslider.php:186
+msgid "Height:"
+msgstr ""
+
+#: extensions/wpsccoups.php:77 extensions/wpsccoups.php:79
+msgid " of Everything"
+msgstr ""
+
+#: extensions/wpsccoups.php:82
+msgid "Free shipping"
+msgstr ""
+
+#: extensions/wpsccoups.php:83
+msgid " for Everything"
+msgstr ""
+
+#: extensions/wpsccoups.php:90
+msgid "item name"
+msgstr ""
+
+#: extensions/wpsccoups.php:90
+msgid "item quantity"
+msgstr ""
+
+#: extensions/wpsccoups.php:90
+msgid "total quantity"
+msgstr ""
+
+#: extensions/wpsccoups.php:90
+msgid "subtotal amount"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "is equal to"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "is greater than"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "is less than"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "contains"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "does not contain"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "begins with"
+msgstr ""
+
+#: extensions/wpsccoups.php:92
+msgid "ends with"
+msgstr ""
+
+#: extensions/wpsccoups.php:105
+msgid "SALE ENDS: "
+msgstr ""
+
+#: extensions/wpsccoups.php:108
+msgid "Enter promo code: \""
+msgstr ""
+
+#: extensions/wpsccoups.php:108
+msgid "at checkout to save"
+msgstr ""
+
+#: extensions/wpsccoups.php:109
+msgid " where"
+msgstr ""
+
+#: extensions/wpsccoups.php:114
+msgid "Time left:"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:67
+#, php-format
+msgid ""
+"Sorry your transaction was not accepted due to insufficient funds <br /><a "
+"href=\"%1$s\">Click here to go back to checkout page</a>."
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:100
+#, php-format
+msgid ""
+"Sorry your transaction was not accepted.<br /><a href=\"%1$s\">Click here to "
+"go back to checkout page</a>."
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:144
+#: functions/wpsc-transaction_results_functions.php:145
+msgid "The Transaction was successful"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:239
+#: functions/wpsc-transaction_results_functions.php:240
+msgid "Click to download"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:251
+#, php-format
+msgid " - Shipping: %s\n"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:255
+#, php-format
+msgid " &nbsp; Shipping: %s\n"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:262
+#: functions/wpsc-transaction_results_functions.php:263
+msgid "Tax Included"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:293
+#: functions/wpsc-transaction_results_functions.php:312
+#, php-format
+msgid ""
+"Total Shipping: %s\n"
+"\t"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:295
+#: functions/wpsc-transaction_results_functions.php:314
+#, php-format
+msgid "Total: %s\n"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:308
+#: functions/wpsc-transaction_results_functions.php:309
+msgid "Total Tax"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:316
+#, php-format
+msgid "Purchase # %s\n"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:320
+#: functions/wpsc-transaction_results_functions.php:321
+msgid "Your Transaction ID"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:322
+msgid "Transaction ID"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:361
+#: functions/wpsc-transaction_results_functions.php:362
+msgid ""
+"Thank you, your purchase is pending, you will be sent an email once the "
+"order clears."
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:366
+msgid "Order Pending: Payment Required"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:370
+msgid "Purchase Receipt"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:378
+msgid "Customer Details"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:393
+msgid "Billing State"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:402
+msgid "Delivery State"
+msgstr ""
+
+#: functions/wpsc-transaction_results_functions.php:417
+msgid "Purchase Report"
+msgstr ""
+
+#: tiadmin/tiadmin.php:358
+msgid "Upload your logo"
+msgstr ""
+
+#: tiadmin/tiadmin.php:359
+msgid "You may also upload a Favicon"
+msgstr ""
+
+#: tiadmin/tiadmin.php:362
+msgid "Upload Logo"
+msgstr ""
+
+#: tiadmin/tiadmin.php:364
+msgid "Upload Favicon"
+msgstr ""
+
+#: tiadmin/tiadmin.php:414
+msgid "Theme Specific Layout Settings"
+msgstr ""
+
+#: tiadmin/tiadmin.php:415 tiadmin/tiadmin.php:464
+msgid "Here you can adjust different theme specific settings"
+msgstr ""
+
+#: tiadmin/tiadmin.php:417
+msgid "Show product description:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:420
+msgid "Set a number of words in product description on Prodouct Listing:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:423
+msgid "Defulat product listing view:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:424
+msgid "Grid"
+msgstr ""
+
+#: tiadmin/tiadmin.php:425
+msgid "List"
+msgstr ""
+
+#: tiadmin/tiadmin.php:428
+msgid "Sidebar on Products Listing Page:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:429 tiadmin/tiadmin.php:435
+msgid "Left"
+msgstr ""
+
+#: tiadmin/tiadmin.php:430 tiadmin/tiadmin.php:436
+msgid "Right"
+msgstr ""
+
+#: tiadmin/tiadmin.php:431 tiadmin/tiadmin.php:437
+msgid "Off"
+msgstr ""
+
+#: tiadmin/tiadmin.php:434
+msgid "Sidebar on Single Product Page:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:440
+msgid "Show product options on product listing page:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:442 tiadmin/tiadmin.php:447 tiadmin/tiadmin.php:468
+msgid "Yes"
+msgstr ""
+
+#: tiadmin/tiadmin.php:445
+msgid "Show \"More Information\" on Product Listing:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:450
+msgid "Checkout page product image:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:451
+msgid "Width:  &nbsp;"
+msgstr ""
+
+#: tiadmin/tiadmin.php:452
+msgid "Height: "
+msgstr ""
+
+#: tiadmin/tiadmin.php:463
+msgid "Theme Specific Blog Settings"
+msgstr ""
+
+#: tiadmin/tiadmin.php:466
+msgid "Use Pinterest Like layout as blog layout:"
+msgstr ""
+
+#: tiadmin/tiadmin.php:479
+msgid " theme settings "
+msgstr ""
+
+#: tiadmin/tiadmin.php:488 tiadmin/tiadmin.php:503
+msgid "Save Changes"
+msgstr ""
+
+#: tiadmin/tiadmin.php:492
+msgid "Color Schemes"
+msgstr ""
+
+#: tiadmin/tiadmin.php:493
+msgid "Patterns"
+msgstr ""
+
+#: tiadmin/tiadmin.php:494
+msgid "Google Analytics"
+msgstr ""
+
+#: tiadmin/tiadmin.php:495
+msgid "Contacts Page"
+msgstr ""
+
+#: tiadmin/tiadmin.php:496
+msgid "Logo and Favicon"
+msgstr ""
+
+#: tiadmin/tiadmin.php:497
+msgid "Product Listing Settings"
+msgstr ""
+
+#: tiadmin/tiadmin.php:498
+msgid "Blog posts Listing Settings"
+msgstr ""
+
+#: tiadmin/tiadmin.php:511
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
