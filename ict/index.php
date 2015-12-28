@@ -47,6 +47,7 @@
 			<?php
 				$post_cats = get_the_category($post->ID);
 				$post_tags = wp_get_post_tags($post->ID);
+				/* Post */
 			 ?>
 			<div class="isotope-item All <?php foreach($post_cats as $cat) { echo  ' cat-'.$cat->slug; } foreach($post_tags as $tag) { echo ' tag-'.$tag->name; } ?> ">
 			<article class="post">
@@ -167,7 +168,7 @@ jQuery(function(){
 	
 	<div class="grid_9 cont_col posts-default" id="posts">
 	
-	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+	<?php if (have_posts()) : while (have_posts()) : the_post(); /* New Condition*/?>
 
 		<article>
 			<?php if ( has_post_thumbnail()) : ?>
