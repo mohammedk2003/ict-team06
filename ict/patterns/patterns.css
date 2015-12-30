@@ -1,0 +1,102 @@
+/*----Dots----*/
+.dots .chrome{
+	background: url(1.png) ;
+}
+
+.dots #categories_sl{
+	background: url(1.png) ;
+}
+
+.dots #content, .dots #subcontent2{
+	background: url(1.png) ;
+}
+
+.dots footer #end{
+	background: url(1.png) ;
+}
+
+/*----Mosaic------*/
+.mosaic .chrome{
+	background: url(2.png) ;
+}
+
+.mosaic #categories_sl{
+	background: url(2.png) ;
+}
+
+.mosaic #content, .mosaic #subcontent2{
+	background: url(2.png) ;
+}
+
+.mosaic footer #end{
+	background: url(2.png) ;
+}
+
+/*-----Ribs------*/
+.ribs .chrome{
+	background: url(3.png) ;
+}
+
+.ribs #categories_sl{
+	background: url(3.png) ;
+}
+
+.ribs #content, .ribs #subcontent2{
+	background: url(3.png) ;
+}
+
+.ribs footer #end{
+	background: url(3.png) ;
+}
+
+/*------Waves--------*/
+
+.waves .chrome{
+	background: url(4.png) ;
+}
+
+.waves #categories_sl{
+	background: url(4.png) ;
+}
+
+.waves #content, .waves #subcontent2{
+	background: url(4.png) ;
+}
+
+.waves footer #end{
+	background: url(4.png) ;
+}
+
+/*------Mram--------*/
+.mram .chrome{
+	background: url(5.png) ;
+}
+
+.mram #categories_sl{
+	background: url(5.png) ;
+}
+
+.mram #content, .mram #subcontent2{
+	background: url(5.png) ;
+}
+
+.mram footer #end{
+	background: url(5.png) ;
+}
+
+/*------Pixels--------*/
+.pixels .chrome{
+	background: url(6.png) ;
+}
+
+.pixels #categories_sl{
+	background: url(6.png) ;
+}
+
+.pixels #content, .pixels  #subcontent2{
+	background: url(6.png) ;
+}
+
+.pixels footer #end{
+	background: url(6.png);
+}
